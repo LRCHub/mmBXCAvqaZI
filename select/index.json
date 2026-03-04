@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "緊急生放送",
+  "base_artist": "NEE",
+  "createdAt": "2026-03-04T01:26:28.619932Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "緊急生放送",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_緊急生放送_NEE.txt"
+    }
+  ]
+}
